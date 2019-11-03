@@ -1,0 +1,14 @@
+{
+  "name": "test_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^1.18.2"
+  }
+}
